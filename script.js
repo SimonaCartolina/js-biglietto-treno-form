@@ -1,6 +1,6 @@
 const kilometri;
 const UserAge;
-let costoalkm= parseInt(0.233.toFixed(2) + €);
+let costoalkm= parseInt(0.233.toFixed(2));
 let costocomplessivo= costoalkm * kilometri;
 let costoscontato;
 
