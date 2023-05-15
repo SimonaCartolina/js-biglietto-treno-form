@@ -1,0 +1,30 @@
+body{
+    background-image: url(https://www.repstatic.it/content/nazionale/img/2020/02/03/130939408-ab0db7ab-6164-451c-82b6-7ebb8cf55d7b.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display:flex;
+    justify-content: center;
+    height:600px;
+    align-items: center;
+}
+.mycontainer{
+    text-align:center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, 0.684);
+    background-color: rgba(219, 215, 210, 0.597);
+    font-weight: bold;
+    padding:7rem;
+    border-radius:20px;
+    border:3px solid darkslategray;
+    box-shadow:rgba(0, 0, 0, 0.196) 0px 5px 15px;
+}
+h1{
+    color:rgba(165, 42, 42, 0.914);
+    font-size:1.2rem;
+    margin-top:2rem;
+}
+
+.label{
+    width:10%;
+}
